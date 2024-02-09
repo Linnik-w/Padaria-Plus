@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(247, 237, 220);
+}
+.secao{
+    width: 700px;
+    margin: 20px auto;
+    text-align: center;
+}
+.imagem-logotipo{
+    width: 200px;
+}
+a{
+    margin: 0 10px;
+    color: #542f0c;
+}
+/*Sessao Sobre*/
+.secao1 {
+    border-top:#de8e37 solid 1px;
+    margin-top: 28px;
+}
+.secao1 h2{
+    color: #de8e37;
+}
+.secao1 img{
+    width: 700px;
+}
+/*Sessão do Produto*/
+.secao2{
+    background-color: #de8e37;
+}
+.secao2 h3{
+    padding-top: 24px;
+    font-size:20px;
+    font-weight: bold;
+    color: white;
+    font-family: verdana;
+}
+.secao2 h4{
+    font-weight: bold;
+    color: white;
+    font-family: verdana;
+}
+.secao2 p{
+    color: white;
+    font-family: verdana;
+}
+.secao2 img{
+    padding-bottom: 8px;
+}
+span{
+    font-weight: bold;
+}
+/*Sessão do Contato*/
+.secao3{
+    line-height: 8px;
+    padding-top: 10px;
+}
